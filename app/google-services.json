@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "16333048603",
+    "firebase_url": "https://checkb-id.firebaseio.com",
+    "project_id": "checkb-id",
+    "storage_bucket": "checkb-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16333048603:android:b26e26de10fb711d",
+        "android_client_info": {
+          "package_name": "moura.patricia.checkb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16333048603-qgliutnbv2mbdtulgqp9jc1cmfk3ptkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "moura.patricia.checkb",
+            "certificate_hash": "4afff576952d98a03d19c411bb449205d5fcef66"
+          }
+        },
+        {
+          "client_id": "16333048603-u6oocd17a1h5mboltiu8kig9jcumu49l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVn60IdgwiVpAjMdSboSRpACaPh2b-QI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16333048603-u6oocd17a1h5mboltiu8kig9jcumu49l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
